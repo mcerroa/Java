@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AA5_WoodShops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AA5_WoodShops_jar</output-path>
+    <root id="archive" name="AA5_WoodShops.jar">
+      <element id="module-output" name="AA5_WoodShops" />
+    </root>
+  </artifact>
+</component>
